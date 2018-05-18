@@ -1,5 +1,5 @@
 <?php
-
+//This file has been edited by Shane
 class NewWikisWidget extends WP_Widget {
 		function __construct() {
 			global $wiki;
